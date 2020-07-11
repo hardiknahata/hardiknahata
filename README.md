@@ -8,10 +8,10 @@
 <!-- icons  -->
 
 [1.1]: https://img.icons8.com/color/48/000000/linkedin.png
-[2.1]: https://img.icons8.com/windows/32/000000/github.png
+[2.1]: https://img.icons8.com/windows/48/000000/github.png
 [3.1]: https://img.icons8.com/color/48/000000/twitter.png
 [4.1]: https://img.icons8.com/fluent/48/000000/domain.png
-[5.1]: https://img.icons8.com/cute-clipart/64/000000/email.png
+[5.1]: https://img.icons8.com/cute-clipart/48/000000/email.png
 
 <!-- links to my social media accounts -->
 
