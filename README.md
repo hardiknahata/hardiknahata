@@ -7,15 +7,19 @@
 
 <!-- icons  -->
 
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[1.1]: https://img.icons8.com/color/48/000000/linkedin.png
+[2.1]: https://img.icons8.com/windows/32/000000/github.png
+[3.1]: https://img.icons8.com/color/48/000000/twitter.png
+[4.1]: https://img.icons8.com/fluent/48/000000/domain.png
+[5.1]: https://img.icons8.com/cute-clipart/64/000000/email.png
 
 <!-- links to my social media accounts -->
 
 [1]: https://www.linkedin.com/in/hardiknahata
 [2]: https://www.github.com/hardiknahata
 [3]: https://www.twitter.com/sarcastichardy
+[4]: https://www.hardiknahata.com
+[5]: mailto:hardiknahata@gmail.com
 
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
@@ -31,9 +35,11 @@ Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. ✌
 
 <!-- section - social media icons -->
 
+[![website hardiknahata][4.1]][4]
 [![linkedin hardiknahata][1.1]][1]
 [![github hardiknahata][2.1]][2]
 [![twitter hardiknahata][3.1]][3]
+[![email hardiknahata][5.1]][5]
 
 <!-- section - social media icons -->
 
@@ -55,13 +61,13 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
 
 ## Experience 💯
 
-> Freelance Subject Matter Expert (Current) - [**Chegg Inc.**](https://chegg.com)  ⭐
+🔯 Freelance Subject Matter Expert (Current) - [**Chegg Inc.**](https://chegg.com)  ⭐
 
-> Machine Learning Research Assistant - [**NTU Singapore**](https://www.ntu.edu.sg)
+🔯 Machine Learning Research Assistant - [**NTU Singapore**](https://www.ntu.edu.sg)
 
-> Web Developer | Director of Communications - [**Literacy Helping Hands**](https://www.literacyhelpinghands.in)
+🔯 Web Developer | Director of Communications - [**Literacy Helping Hands**](https://www.literacyhelpinghands.in)
 
-> Software Engineer Intern - [**Winwire Technologies Inc. Singapore**](https://www.winwire.com)
+🔯 Software Engineer Intern - [**Winwire Technologies Inc. Singapore**](https://www.winwire.com)
 
 
 <!-- section - job details -->
@@ -81,15 +87,17 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
 
 <!-- section - interests -->
 
-## Thank you for staying with me till here! 🙏
+## Thanks for reading About Me!🙏
 
-You can connect with me on ..
+You can connect with me on ...
 
 <!-- section - social media icons -->
 
+[![website hardiknahata][4.1]][4]
 [![linkedin hardiknahata][1.1]][1]
 [![github hardiknahata][2.1]][2]
 [![twitter hardiknahata][3.1]][3]
+[![email hardiknahata][5.1]][5]
 
 <!-- section - social media icons -->
 
