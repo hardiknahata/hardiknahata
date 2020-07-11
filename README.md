@@ -27,9 +27,9 @@
 # :blue_heart: to Build - Artificial Intelligence Engineer & Enthusiast!
 
 
-Hello World! I'm **Hardik Nahata** — an aspiring **Machine Learning Engineer** with the zeal to solve real world problems with **CODE**. <br>
+Hello World! I'm **Hardik Nahata** — an aspiring **Machine Learning Engineer** with the zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
 I have multiple internship experiences ranging from core research to corporate environment. <br>
-Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. ✌
+Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. 
 
 <!-- section - intro -->
 
@@ -65,9 +65,9 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
 
 🔯 Machine Learning Research Assistant - [**NTU Singapore**](https://www.ntu.edu.sg)
 
-🔯 Web Developer | Director of Communications - [**Literacy Helping Hands**](https://www.literacyhelpinghands.in)
+🔯 Web Developer | Director of Communications - [**Literacy Helping Hands (NGO)**](https://www.literacyhelpinghands.in)
 
-🔯 Software Engineer Intern - [**Winwire Technologies Inc. Singapore**](https://www.winwire.com)
+🔯 Software Engineer Intern - [**Winwire Technologies Inc.**](https://www.winwire.com)
 
 
 <!-- section - job details -->
