@@ -24,10 +24,10 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# :blue_heart: to Build - Artificial Intelligence Engineer & Enthusiast!
+# :blue_heart: to Build - Machine Learning Engineer
 
 
-Hello World! I'm **Hardik Nahata** — an aspiring **Machine Learning Engineer** with the zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
+Hello World! I'm **Hardik Nahata** — working as a **Machine Learning Engineer** at KoiReader. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
 I have multiple internship experiences ranging from core research to corporate environment. <br>
 Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. 
 
