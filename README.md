@@ -24,12 +24,12 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# :blue_heart: to Build - Machine Learning Engineer
+# :blue_heart: to Build - Artificial Intelligence Engineer
 
 
-Hello World! I'm **Hardik Nahata** — working as a **Machine Learning Engineer** at KoiReader. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
+Hello World! I'm **Hardik Nahata** — working as an **Artificial Intelligence Engineer** at Aspecto Tech. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
 I have multiple internship experiences ranging from core research to corporate environment. <br>
-Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. 
+<!--Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. -->
 
 <!-- section - intro -->
 
@@ -47,13 +47,13 @@ Recently I worked at NTU Singapore (BIL Lab) for my final year thesis.
 
 <!-- section - skills -->
 
-## My Good Freinds! 💻
+## The people I hangout the most with! 💻
 
-C++ . Python . C . SQL . HTML . CSS 
+Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
 
-Keras . Tensorflow . Flask . Computer Vision . Machine Learning . Deep Learning
+Pytorch . Keras . Tensorflow . Computer Vision . Natural Language Processing . Deep Learning
 
-Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
+Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 <!-- section - skills -->
 
@@ -61,7 +61,11 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
 
 ## Experience 💯
 
-🔯 Freelance Subject Matter Expert (Current) - [**Chegg Inc.**](https://chegg.com)  ⭐
+🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](https://aspecto.tech) ⭐
+
+🔯 Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
+
+🔯 Freelance Subject Matter Expert - [**Chegg Inc.**](https://chegg.com)
 
 🔯 Machine Learning Research Assistant - [**NTU Singapore**](https://www.ntu.edu.sg)
 
@@ -79,7 +83,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Heroku
 
 💻 I love learning about everything new in _**TECH**!_
 
-📈 I _**BUILD**_ robust ML models
+📈 I _**BUILD**_ robust applications
 
 🎹 I play Piano at times. You can check out my Piano Covers on my [YouTube Channel](https://www.youtube.com/channel/UC6EZ0xQ3EtBsogS3At_fAFA?view_as=subscriber). 
 
