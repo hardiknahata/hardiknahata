@@ -61,7 +61,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ## Experience 💯
 
-🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](https://aspecto.tech) ⭐
+🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](aspecto.tech) ⭐
 
 🔯 Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
 
