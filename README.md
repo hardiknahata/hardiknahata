@@ -1,6 +1,6 @@
 <!--Credits for template: https://github.com/ombharatiya -->
 
-![Hardik Nahata Cover](https://imgur.com/1RMZdC4.jpeg)
+![Hardik Nahata Cover](https://i.imgur.com/EF1Riuy.png)
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
