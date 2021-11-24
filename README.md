@@ -27,8 +27,8 @@
 # :blue_heart: to Build - Artificial Intelligence Engineer
 
 
-Hello World! I'm **Hardik Nahata** — working as an **Artificial Intelligence Engineer** at Aspecto Tech. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
-I have multiple internship experiences ranging from core research to corporate environment. <br>
+Hello World! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Computer Science with a Specialization in Artificial Intelligence**, at Northeastern University, Boston, USA. Previously worked as an **Artificial Intelligence Engineer** at Aspecto Tech. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
+I have exposure to varied experiences from core AI Research to working full time at fast paced startups. <br>
 <!--Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. -->
 
 <!-- section - intro -->
@@ -61,7 +61,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ## Experience 💯
 
-🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](http://aspecto.tech) ⭐
+🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](http://aspecto.tech)
 
 🔯 Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
 
