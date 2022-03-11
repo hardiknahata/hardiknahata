@@ -60,8 +60,9 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 <!-- section - job details -->
 
 ## Experience 💯
+🔯 Graduate Teaching Assistant (Current) - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
-🔯 Artificial Intelligence Engineer (Current) - [**Aspecto Tech**](http://aspecto.tech)
+🔯 Artificial Intelligence Engineer - [**Aspecto Tech**](http://aspecto.tech)
 
 🔯 Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
 
