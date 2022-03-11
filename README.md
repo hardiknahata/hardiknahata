@@ -62,13 +62,13 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 ## Experience 💯
 🔯 Graduate Teaching Assistant (Current) - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
-🔯 Artificial Intelligence Engineer - [**Aspecto Tech**](http://aspecto.tech)
+🔯 Software Engineer AI/ML - [**Aspecto Tech**](http://aspecto.tech)
 
 🔯 Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
 
-🔯 Freelance Subject Matter Expert - [**Chegg Inc.**](https://chegg.com)
+🔯 Subject Matter Expert - [**Chegg Inc.**](https://chegg.com)
 
-🔯 Machine Learning Research Assistant - [**NTU Singapore**](https://www.ntu.edu.sg)
+🔯 Deep Learning Research Assistant - [**Nanyang Technological University, Singapore**](https://www.ntu.edu.sg)
 
 🔯 Web Developer | Director of Communications - [**Literacy Helping Hands (NGO)**](https://www.literacyhelpinghands.in)
 
