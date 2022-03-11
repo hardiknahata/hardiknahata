@@ -24,7 +24,7 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# :blue_heart: to Build - Data Scientist | ML | DL | AI
+# :blue_heart: to Build - Data Scientist | ML | AI
 
 
 Hello World! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Computer Science with a Specialization in Artificial Intelligence**, at Northeastern University, Boston, USA. Previously worked as an **Artificial Intelligence Engineer** at Aspecto Tech. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png)  <br>
