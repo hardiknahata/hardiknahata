@@ -48,12 +48,21 @@ Hola! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Comp
 
 ## I work on... 💻
 
-Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, C++, C, JAVA, SQL, HTML, CSS.  
+
+𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Pytorch, Tensorflow, Keras, Flask, FastAPI.  
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: PostgreSQL, MongoDB, MySQL.  
+
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, Azure, Docker, NATS, Git, Jira, and more.  
+
+
+<!-- Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
 
 Pytorch . Keras . Tensorflow . Computer Vision . Natural Language Processing . Deep Learning
 
 Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
-
+ -->
 <!-- section - skills -->
 
 <!-- section - job details -->
