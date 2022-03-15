@@ -88,7 +88,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 <!-- section - interests -->
 
-## My Favorites! 💖
+## My Favorites! 💜
 
 💻 I love learning about everything new in _**TECH**!_
 
@@ -100,7 +100,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 <!-- section - interests -->
 
-## Thanks for Coming By! 💜
+## Thanks for Coming By! 🙏
 
 You can connect with me on ...
 
