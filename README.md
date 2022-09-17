@@ -67,7 +67,9 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 <!-- section - job details -->
 
 ## Experience 👨‍💻
-⚡️ Graduate Teaching Assistant (Current) - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
+⚡️ Data Science Intern (Current) - [**Chegg Inc**](https://www.chegg.com)
+
+⚡️ Graduate Teaching Assistant - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
 ⚡️ Software Engineer AI/ML - [**Aspecto Tech**](http://aspecto.tech)
 
