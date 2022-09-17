@@ -27,8 +27,7 @@
 # :blue_heart: to Build - Data Scientist & Machine Learning Engineer
 
 
-Hola! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Computer Science with a Specialization in Artificial Intelligence**, at Northeastern University, Boston, USA. I have 2+ years of Research and Industrial experience in building production-grade AI services specifically in the domain of Computer Vision and Natural Language Processing.  I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png).
-<!--Recently I worked at NTU Singapore (BIL Lab) for my final year thesis. -->
+Hey! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Computer Science with a Specialization in Artificial Intelligence**, at Northeastern University, Boston, USA. I have 2+ years of Applied and Research experience in building production-grade AI services specifically in the domain of Computer Vision and Natural Language Processing. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png).
 
 <!-- section - intro -->
 
@@ -46,7 +45,7 @@ Hola! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Comp
 
 <!-- section - skills -->
 
-## I work on... 💻
+## I work with... 💻
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, C++, C, JAVA, SQL, HTML, CSS.  
 
