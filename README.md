@@ -24,7 +24,7 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# :blue_heart: to Build - Data Scientist & Machine Learning Engineer
+# :blue_heart: to Build - Machine Learning Engineer 
 
 
 Hey! I'm **Hardik Nahata** — currently pursuing a **Master of Science in Computer Science with a Specialization in Artificial Intelligence**, at Northeastern University, Boston, USA. I have 2+ years of Applied and Research experience in building production-grade AI services specifically in the domain of Computer Vision and Natural Language Processing. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png).
