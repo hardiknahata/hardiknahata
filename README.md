@@ -67,19 +67,15 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 <!-- section - job details -->
 
 ## Experience 👨‍💻
-⚡️ Data Science Intern (Current) - [**Chegg Inc**](https://www.chegg.com)
+⚡️ Machine Learning Engineer - II (Current) - [**Chegg Inc**](https://www.chegg.com)
 
 ⚡️ Graduate Teaching Assistant - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
-⚡️ Software Engineer AI/ML - [**Aspecto Tech**](http://aspecto.tech)
+⚡️ Machine Learning Engineer - [**Aspecto Tech**](http://aspecto.tech)
 
 ⚡️ Machine Learning Engineer - [**Koireader Technologies**](https://koireader.com)
 
-⚡️ Subject Matter Expert - [**Chegg Inc.**](https://chegg.com)
-
-⚡️ Deep Learning Research Assistant - [**Nanyang Technological University, Singapore**](https://www.ntu.edu.sg)
-
-⚡️ Web Developer | Director of Communications - [**Literacy Helping Hands (NGO)**](https://www.literacyhelpinghands.in)
+⚡️ Machine Learning Research Assistant - [**Nanyang Technological University, Singapore**](https://www.ntu.edu.sg)
 
 ⚡️ Software Engineer Intern - [**Winwire Technologies Inc.**](https://www.winwire.com)
 
