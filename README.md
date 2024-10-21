@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub README, reflecting your latest profile information:
-
----
-
 ![Hardik Nahata Cover](https://i.imgur.com/EF1Riuy.png)
 
 # 👋 Hey there, I'm **Hardik Nahata** — *Senior Machine Learning Engineer*
@@ -34,7 +30,3 @@ I’m a **Senior Machine Learning Engineer** with over 3 years of experience, cu
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://www.twitter.com/sarcastichardy)
 [![Website](https://img.icons8.com/fluent/48/000000/domain.png)](https://www.hardiknahata.com)
 [![Email](https://img.icons8.com/cute-clipart/48/000000/email.png)](mailto:nahata.h@northeastern.edu)
-
----
-
-This version now highlights your recent work at Chegg, your senior role, and updated skills. Does this resonate with the current direction you're looking for?
