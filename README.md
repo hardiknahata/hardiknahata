@@ -1,4 +1,4 @@
-![Hardik Nahata Cover](https://imgur.com/a/mVSNhXf)
+![Hardik Nahata Cover](https://i.imgur.com/EF1Riuy.png)
 
 # 👋 Hey there, I'm **Hardik Nahata** — *Senior Machine Learning Engineer*
 
