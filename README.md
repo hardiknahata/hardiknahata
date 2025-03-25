@@ -1,6 +1,6 @@
 ![Hardik Nahata Cover](https://i.imgur.com/EF1Riuy.png)
 
-# 👋 Hey there, I'm **Hardik Nahata** — *Staff Machine Learning Engineer*
+# 👋 Hey there, I'm **Hardik Nahata** – Building AI-driven experiences that matter 🚀
 
 I’m a **Staff Machine Learning Engineer** at **PayPal**, leading the development of **scalable ML infrastructure** for real-time, AI-driven shopping experiences across millions of merchant surfaces globally. Previously, I worked at **Chegg Inc.**, where I built **Generative AI** and **LLM-based solutions** to revolutionize learning for students. My expertise lies in **Natural Language Processing**, **Deep Learning**, and leveraging **AI** to solve real-world challenges.
 
