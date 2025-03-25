@@ -7,10 +7,9 @@ I’m a **Staff Machine Learning Engineer** at **PayPal**, leading the developme
 ---
 
 ## 🔧 Tech Stack & Expertise
-- **Languages:** Python, C++, Java, SQL, R, HTML, CSS
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Flask, FastAPI
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **DevOps & Cloud:** AWS, Azure, Docker, NATS, Git, Jira
+- **Programming Languages:** Python, Java, C++, R, SQL, Bash, HTML, CSS, JavaScript
+- **AI & ML Frameworks:** Deep Learning, Machine Learning, Natural Language Processing, Generative AI, RAG, Large Language Models (LLMs), PyTorch, Keras, TensorFlow
+- **Tools & Platforms:** Microservices, REST APIs, AWS, Docker, Git, Postgres, MongoDB, Postman
 
 ---
 
